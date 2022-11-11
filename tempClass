@@ -1,3 +1,0 @@
-class tempClass{
-  System.out.println("Очень важное сообщение")
-}
